@@ -11,6 +11,6 @@ public class Addition {
 
         int sum = num1 + num2 + num3;
 
-        System.out.println("The sum of the three numbers is: " + sum);
+        System.out.println("Result " + sum);
     }
 }
